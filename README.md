@@ -1,7 +1,7 @@
 ## Cypress do Zero a Nuvem :cloud:
 
 Neste projeto construo minha primeira automação de testes.
-A aplicação utiizada foi a CAC - Central de Atendimento ao Cliente, utilizando **Cypress + Javascript.**
+A 'aplicação utiizada foi a CAC - Central de Atendimento ao Cliente, utilizando **Cypress + Javascript.**
 
 ## Pré-requisitos :white_check_mark:
 

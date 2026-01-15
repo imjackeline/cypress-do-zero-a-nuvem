@@ -6,7 +6,7 @@ A 'aplicação utiizada foi a CAC - Central de Atendimento ao Cliente, utilizand
 ## Pré-requisitos :white_check_mark:
 
 **Sistemas**
-Antes de começar, certifique-se de que os seguintes sistemas estejam instalados em seu computador.
+Antes de começar, certifique-se de que os seguintes sistemas estejam instalados em seu computador. 
 
 >[Git](https://git-scm.com/) (2.42.1 no momento da redação deste artigo)
 [Node.js](https://nodejs.org/en/) (v20.13.1 no momento da redação deste artigo)
